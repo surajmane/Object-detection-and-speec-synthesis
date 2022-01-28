@@ -9,3 +9,4 @@ This CSV is then imported to Observable where most important functions work. We 
 This all is then given to a speech Utterance API which converts the text to speech and the user, if with impaired vision, could hear the results.
 
 There are two modules, first which detects the objects and returns a CSV, the second is the Observable part which basically is our front end of the project with certain interactivity.
+This is url to the Observable - https://observablehq.com/@surajmane/object-detection-and-sonification/2
